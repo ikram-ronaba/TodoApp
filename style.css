@@ -106,12 +106,11 @@ form{
     box-shadow: 0 12px 25px rgba(0,0,0,0.6);
 }
 
-/* التعديل: زيادة المسافة بين checkbox والنص */
 .todo .todo-text{
     flex-grow: 1;
     transition: 0.3s ease;
-    margin-left: 12px; /* ← هذه هي الإضافة */
-    vertical-align: middle; /* ← لضمان التوافق مع checkbox */
+    margin-left: 12px;
+    vertical-align: middle;
 }
 
 .delete-button{
