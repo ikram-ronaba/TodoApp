@@ -57,7 +57,7 @@ open index.html
 
 ## 📷 Screenshots
 
-![TodoApp Screenshot](./images/Screenshot-TodoApp.jpg)
+![TodoApp Screenshot](https://github.com/ikram-ronaba/TodoApp/blob/main/Screenshot%20TodoApp.jpg)
 
 
 
