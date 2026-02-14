@@ -29,8 +29,7 @@ Easily add, check off, and delete tasks with a smooth UI and local storage persi
 
 ## 🚀 Live Demo
 
-Check it out here: [**Live Demo**](#)
-*(Replace `#` with your GitHub Pages link if hosted)*
+Check it out here: [**Live Demo**](https://ikram-ronaba.github.io/TodoApp/)
 
 
 ## 🛠 Installation & Usage
