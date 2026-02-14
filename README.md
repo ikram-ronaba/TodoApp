@@ -57,8 +57,8 @@ open index.html
 
 ## 📷 Screenshots
 
-![TodoApp Screenshot](./images/screenshot.png)
-*(Optional: Add an actual screenshot of your app here)*
+![TodoApp Screenshot](./images/Screenshot-TodoApp.jpg)
+
 
 
 ## 📁 Project Structure
